@@ -1,9 +1,3 @@
-📁 Employee-Management-System
-│
-├── index.html # Main UI
-├── style.css # Styling
-├── script.js # Functionality (CRUD operations)
-└── README.md # Project Details# 👨‍💼 Employee Management System  
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
 ![HTML](https://img.shields.io/badge/HTML-5-orange)  
@@ -50,3 +44,8 @@ Intern @ Prodigy Infotech
 ---
 
 ## 📂 Project Structure
+📁 Employee-Management-System
+├── index.html # Main UI
+├── style.css # Styling
+├── script.js # Functionality (CRUD operations)
+└── README.md # Project Details# 👨‍💼 Employee Management System  
